@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * Created by User on 15.01.2017.
- */
 public class SOS {
     public static void main(String[] args) {
         SOS solution = new SOS();
